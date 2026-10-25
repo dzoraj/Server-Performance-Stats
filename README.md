@@ -1,4 +1,5 @@
 # Terminal System Monitor: Command Notes
+https://roadmap.sh/projects/server-stats
 
 Notes on the key commands used in the monitoring script.
 
